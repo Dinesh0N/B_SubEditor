@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+id = "b_subeditor"
+name = "B SubEditor"
+version = "1.0.0"
+tagline = "Sync subtitles in Text Editor/VSE"
+maintainer = "Dinesh"
+type = "add-on"
+tags = ["Sequencer", "Text Editor", "Import-Export"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+website = "https://github.com/Dinesh0N"
+copyright = ["2024 Dinesh"]
+[permissions]
+files = "Requires access to directory with subtitle files"
