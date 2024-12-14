@@ -2,7 +2,8 @@
 
 B-Sub Editor is a Blender addon designed to streamline subtitle management within the Text Editor and Video Sequence Editor (VSE). It simplifies the process of importing, exporting, and synchronizing subtitles in various formats, including SRT, VTT, SBV, and plain TXT. In the Text Editor, it provides convenient import and export operations, along with a helpful footer displaying text information like line count, cursor position, and selected character count. Within the VSE, B-Sub Editor facilitates the creation of text strips from subtitle files, enabling precise synchronization with video content. This addon aims to enhance the workflow for video editors and content creators who require precise subtitle control within Blender.
 
-![piclumen-1734104081969](https://github.com/user-attachments/assets/f944b27f-7c6d-4e7e-b895-1079dc99b5ee)
+![piclumen-1734160333043](https://github.com/user-attachments/assets/c948bb98-23d5-40da-9858-ef9fc853e968)
+
 
 **How to Use:**
 
